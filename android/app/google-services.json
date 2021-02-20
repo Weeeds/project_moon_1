@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224850845223",
+    "project_id": "project-moon-fd264",
+    "storage_bucket": "project-moon-fd264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224850845223:android:a2b7c448e32f5767007802",
+        "android_client_info": {
+          "package_name": "com.weeds.project_moon_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224850845223-305q7njuidrsvis9l5m1ulo999h5ksqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weeds.project_moon_1",
+            "certificate_hash": "9e974a2086b2ba827fe2c12a836e16064efb5af7"
+          }
+        },
+        {
+          "client_id": "224850845223-c1mq8rl62hleh727p6gkc7vbb4bfm09f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuUzTWzDaaX_1U4YdvTbblX0h1iv9fnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224850845223-c1mq8rl62hleh727p6gkc7vbb4bfm09f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
